@@ -5,6 +5,10 @@
 @import "css/chat.css";
 @import "css/nav.css";
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
     position: relative;
    padding: 0;
