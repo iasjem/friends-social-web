@@ -1,0 +1,26 @@
+{
+  "name": "friends-social-web",
+  "version": "1.0.0",
+  "description": "Social site to meet and chat with friends. This is a demo project for a portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iasjem/friends-social-web.git"
+  },
+  "author": "iasjem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iasjem/friends-social-web/issues"
+  },
+  "homepage": "https://github.com/iasjem/friends-social-web#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "consolidate": "^0.15.1",
+    "express": "^4.16.4",
+    "hbs": "^4.0.1",
+    "mongoose": "^5.4.0"
+  }
+}
